@@ -12,7 +12,8 @@ html{
 	background:#fff;
 }
 body{
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
+	font-weight: 300!important;
 }
 .headerLine{
 	position: relative;
@@ -49,7 +50,7 @@ body{
 }*/
 .logo{
 	margin-top: 60px;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-size:30px;
 	font-weight:700;
 	text-transform:uppercase;
@@ -61,7 +62,7 @@ body{
 .logo p{
 	letter-spacing: 0.5px;
 	margin-top: -10px;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-size:12px;
 	font-weight:300;
 	text-transform:lowercase;
@@ -105,7 +106,7 @@ border: none;
 	padding-left: 17px;
 	padding-right: 16px;
 	float:left;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-size:14px;
 	color:#fff;
 	list-style:none;
@@ -139,7 +140,7 @@ border: none;
 }
 .camera_caption h2{
 	border-bottom:4px solid #1fcdff;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Comfortaa', cursive;
 	font-size:100px;
 	font-weight:700;
 	letter-spacing: -2px;
@@ -266,20 +267,20 @@ border: none;
 }
 .project h3{
 	letter-spacing: 1px;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-size:37px;
 	font-weight:400;
 	color:#2f2f2f;
 }
 .project h4{
 	margin-left: -5px;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-size:20px;
 	font-weight:300;
 	color:#2f2f2f;
 }
 .project p{
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-size:13px;
 	font-weight:300;
 	margin-top: 16px;
@@ -293,14 +294,14 @@ border: none;
 }
 .cBusiness h3{
 	text-align:center;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-size:28px;
 	font-weight:400;
 }
 .cBusiness h4{
 	margin-top: 16px;
 	text-align:center;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-size:16px;
 	font-weight:300;
 }
@@ -393,12 +394,12 @@ border: none;
 .Fresh h4{
 	//margin-left: -15px;
 	margin-top: 17px;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-size:20px;
 	font-weight:300;
 }
 .Fresh p{
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-size: 13px;
 	font-weight: 300;
 	margin-top: 12px;
@@ -440,14 +441,14 @@ border: none;
 .wwa h3{
 	font-size:28px;
 	color:#2f2f2f;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 400;
 }
 .wwa h4{
 	margin-top: 15px;
 	font-size:16px;
 	color:#2f2f2f;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 300;
 }
 /**/
@@ -468,21 +469,21 @@ border: none;
 	margin-top: 24px;
 	font-size:20px;
 	color:#2f2f2f;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 300;
 }
 .team h5{
 	margin-top: -3px;
 	font-size:13px;
 	color:#a9a9a9;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 300;
 }
 .team p{
 	margin-top: 12px;
 	font-size: 13px;
 	color: #666;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 300;
 	line-height: 24px;
 
@@ -553,7 +554,7 @@ border: none;
 	margin-top: -19px;
 	font-size:18px;
 	color: #2f2f2f;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 700;
 }
 .percent:after {
@@ -562,13 +563,13 @@ border: none;
 	font-size: .8em;
 	font-size:18px;
 	color: #2f2f2f;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 700;
 }
 .chart sup{
 	font-size:18px;
 	color: #2f2f2f;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 700;
 	
 	top: 0px !important;
@@ -580,7 +581,7 @@ border: none;
 	text-align:center;
 	font-size:20px;
 	color: #2f2f2f;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 300;
 }
 .textP p{
@@ -589,7 +590,7 @@ border: none;
 	text-align:center;
 	font-size:13px;
 	color: #2f2f2f;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 300;
 }
 .bar{
@@ -610,21 +611,21 @@ border: none;
 
 	font-size:28px;
 	color: #2f2f2f;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 400;
 }
 .about h3{
 	margin-top: 51px;
 	font-size:16px;
 	color: #2f2f2f;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 300;
 }
 .about p{
 	font-size: 13px;
 	line-height: 22px;
 	color: #666666;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 300;
 	margin-top: 12px;
 	margin-bottom: 0;
@@ -738,7 +739,7 @@ border: none;
 	font-size: 42px;
 	text-align:center;
 	color: #fff;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 400;
 	margin-top: 17px;
 }
@@ -746,7 +747,7 @@ border: none;
 	font-size: 16px;
 	text-align:center;
 	color: #fff;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 300;
 }
 /**/
@@ -789,7 +790,7 @@ border: none;
 	color:#fff;
 	font-size: 13px;
 	text-align:center;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 700;
 }
 .cBtn ul li:hover{
@@ -834,7 +835,7 @@ border: none;
 	color:#fff;
 	font-size: 13px;
 	text-align:center;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 700;
 	
 	//margin-bottom: 15px;
@@ -899,7 +900,7 @@ border: none;
 	color:#2f2f2f;
 	font-size: 16px;
 	text-align:center;
-	font-family: 'Roboto', 'sans-serif';
+	font-family: 'Comfortaa', cursive;
 	font-weight: 300;
 }
 .view li{
