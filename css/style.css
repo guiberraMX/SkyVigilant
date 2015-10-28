@@ -558,22 +558,31 @@ border: none;
 .angular .chart {
   margin-top: 0;
 }
+
+
+
 .chart span{
 	margin-top: -19px;
 	font-size:18px;
-	color: #2f2f2f;
+	color: #868686;
 	font-family: 'Comfortaa', cursive;
 	font-weight: 700;
 }
+
+
+
 .percent:after {
 	content: '%';
 	margin-left: 0.1em;
 	font-size: .8em;
 	font-size:18px;
-	color: #2f2f2f;
+	color: #868686;
 	font-family: 'Comfortaa', cursive;
 	font-weight: 700;
 }
+
+
+
 .chart sup{
 	font-size:18px;
 	color: #2f2f2f;
@@ -592,12 +601,38 @@ border: none;
 	font-family: 'Comfortaa', cursive;
 	font-weight: 300;
 }
+
+.vuno h3 {
+	color: #569bfd;
+}
+
+
+
+.vdos h3  {
+	color: #a2c8fd;
+}
+
+
+
+.vtres h3 {
+	color: #5245b1;
+}
+
+
+
+.vcuatro h3 {
+	color: #00bbd3;
+}
+
+
+
+
 .textP p{
 	line-height: 23px;
 	margin-top: 13px;
 	text-align:center;
 	font-size:13px;
-	color: #2f2f2f;
+	color: #b4b4b4;
 	font-family: 'Comfortaa', cursive;
 	font-weight: 300;
 }
@@ -618,7 +653,7 @@ border: none;
 .aboutUs h3{
 
 	font-size:28px;
-	color: #2f2f2f;
+	color: #45aab1;
 	font-family: 'Comfortaa', cursive;
 	font-weight: 400;
 }
@@ -1221,8 +1256,8 @@ border: none;
 	font-family: 'Roboto', 'sans-serif';
 	font-weight: 300;
 	font-size:13px;
-	color:#555555;
-	background:#ededed;
+	color:#fefefe;
+	background:#2c2c2c;
 }
 input:focus{
 	//border:0;
@@ -1254,15 +1289,15 @@ textarea {
 	font-family: 'Roboto', 'sans-serif';
 	font-weight: 300;
 	font-size:13px;
-	color:#555555;
-	background:#ededed;
+	color:#fefefe;
+	background:#2c2c2c;
 	border:none;
     max-width: 816px;
 	height: 153px;
     resize: none;
    }
 .forma input:focus, .forma textarea:focus{
-	background:#dfdfdf;
+	background:#333234;
 	border:0;
 }
 .forma .cBtn a{
