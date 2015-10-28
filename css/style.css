@@ -15,6 +15,12 @@ body{
 	font-family: 'Comfortaa', cursive;
 	font-weight: 300!important;
 }
+
+.negro1{
+	background-color: #202020 !important;
+}
+
+
 .headerLine{
 	position: relative;
 	width: 100%;
@@ -39,7 +45,7 @@ body{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	border-bottom: 150px solid white;
+	border-bottom: 150px solid #202020;
 	border-left: 3000px solid transparent;
 }
 /*.container{
@@ -297,6 +303,7 @@ border: none;
 	font-family: 'Comfortaa', cursive;
 	font-size:28px;
 	font-weight:400;
+	color: #b4b4b4;
 }
 .cBusiness h4{
 	margin-top: 16px;
@@ -304,6 +311,7 @@ border: none;
 	font-family: 'Comfortaa', cursive;
 	font-size:16px;
 	font-weight:300;
+	color: #16ccea;
 }
 /**/
 .centPic{
@@ -350,7 +358,7 @@ border: none;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	border-bottom: 150px solid white;
+	border-bottom: 150px solid #202020;
 	border-left: 3000px solid transparent;
 }
 .line2:before{
@@ -369,7 +377,7 @@ border: none;
 	-o-background-size: cover;
 	background-size: cover;
 	/* height: 10px; */
-	border-top: 194px solid white;
+	border-top: 194px solid #202020;
 	border-right: 3000px solid transparent;
 	//bottom: 489px;
 }
@@ -699,7 +707,7 @@ border: none;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	border-bottom: 150px solid white;
+	border-bottom: 150px solid #202020;
 	border-left: 3000px solid transparent;
 }
 .line3:before{
@@ -718,7 +726,7 @@ border: none;
 	-o-background-size: cover;
 	background-size: cover;
 	/* height: 10px; */
-	border-top: 194px solid white;
+	border-top: 194px solid #202020;
 	border-right: 3000px solid transparent;
 	//bottom: 489px;
 }
@@ -1020,7 +1028,7 @@ border: none;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	border-bottom: 150px solid white;
+	border-bottom: 150px solid #202020;
 	border-left: 3000px solid transparent;
 }
 .line4:before{
@@ -1039,7 +1047,7 @@ border: none;
 	-o-background-size: cover;
 	background-size: cover;
 	/* height: 10px; */
-	border-top: 194px solid white;
+	border-top: 194px solid #202020;
 	border-right: 3000px solid transparent;
 	//bottom: 489px;
 }
@@ -1176,7 +1184,7 @@ border: none;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	border-bottom: 150px solid white;
+	border-bottom: 150px solid 202020;
 	border-left: 3000px solid transparent;
 }
 .line5:before{
@@ -1195,7 +1203,7 @@ border: none;
 	-o-background-size: cover;
 	background-size: cover;
 	/* height: 10px; */
-	border-top: 194px solid white;
+	border-top: 194px solid 202020;
 	border-right: 3000px solid transparent;
 	//bottom: 489px;
 }
@@ -1755,7 +1763,7 @@ textarea {
 	height: 100%;
 	
 	background: url(../images/bgFooter.png)  no-repeat;
-	background:#101010;
+	background:#202020;
 }
 .downLine{
 	margin-bottom: 35px;
