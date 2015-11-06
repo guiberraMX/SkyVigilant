@@ -30,6 +30,12 @@ body{
 }
 
 
+.carousel-caption{
+	margin-bottom: 60px;
+	
+}
+
+
 .headerLine{
 	position: relative;
 	width: 100%;
