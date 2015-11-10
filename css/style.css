@@ -36,6 +36,19 @@ body{
 }
 
 
+.activo {
+	width: 40%;
+
+
+}
+
+.otrass{
+	font-weight: 700;
+	font-size: 1.29em;
+	color: #fff;
+	margin-bottom: 20px;
+}
+
 
 .cntr {
   display: table;
@@ -180,7 +193,8 @@ display: none;
 
 #menu .active a {
 border:0;
-color:#1fcdff;
+color:#30a3f1;
+font-weight: 700;
 }
 #menu .active a:focus{
 	outline: none;
@@ -228,7 +242,7 @@ border: none;
 #menu li a:hover{
 	border:none;
 	outline:none;
-	color:#1fcdff;
+	color:#4cb7ff;
 }
 .gallery {
 	height:500px;
@@ -360,9 +374,13 @@ border: none;
 	background: url(../images/sliderL.png) no-repeat;
 }
 /**/
+
+
+
 .project{
 	margin-top: 12px;
 	text-align:center;
+
 }
 .project h3{
 	letter-spacing: 1px;
@@ -404,7 +422,7 @@ border: none;
 	font-family: 'Comfortaa', cursive;
 	font-size:16px;
 	font-weight:300;
-	color: #16ccea;
+	color: #45aab1;
 }
 /**/
 .centPic{
@@ -541,7 +559,7 @@ border: none;
 }
 .wwa h3{
 	font-size:28px;
-	color:#45aab1;
+	color:#4cb7ff;
 	font-family: 'Comfortaa', cursive;
 	font-weight: 400;
 }
@@ -696,25 +714,25 @@ border: none;
 }
 
 .vuno h3 {
-	color: #569bfd;
+	color: #4cb7ff;
 }
 
 
 
 .vdos h3  {
-	color: #a2c8fd;
+	color: #30a3f1;
 }
 
 
 
 .vtres h3 {
-	color: #5245b1;
+	color: #33acfe;
 }
 
 
 
 .vcuatro h3 {
-	color: #00bbd3;
+	color: #2b92d7;
 }
 
 
@@ -746,14 +764,14 @@ border: none;
 .aboutUs h3{
 
 	font-size:28px;
-	color: #45aab1;
+	color: #4cb7ff;
 	font-family: 'Comfortaa', cursive;
 	font-weight: 400;
 }
 .about h3{
 	margin-top: 51px;
 	font-size:16px;
-	color: #45aab1;
+	color: #33acfe;
 	font-family: 'Comfortaa', cursive;
 	font-weight: 300;
 }
@@ -1123,7 +1141,7 @@ border: none;
 }
 .cBtn .buy{
 	box-shadow: 0px 2px 0px 0px #179abf;
-	background:#1fcdff ;
+	background:#33acfe ;
 }
 .cBtn .buy:hover{
 	background:#2f2f2f;
@@ -2103,7 +2121,7 @@ margin-bottom: 35px !important;
 }*/
 #filter li a.selected {
 	cursor:pointer;
-	background:#1fcdff;
+	background:#30a3f1;
 	color:#fff;
 	box-shadow: 0px 2px 0px 0px #179abf;
 }
