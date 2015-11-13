@@ -42,6 +42,87 @@ body{
 
 }
 
+
+
+
+
+.tweet  {
+  width:66%;
+  margin-left: 17% !important;
+  position: relative;
+  margin: 2em 0;
+  padding: 0.7em 1em 0.7em 5em;
+  border-radius: 10px;
+  box-shadow: 0 0 0 0.5em rgba(68, 68, 68, 0.2);
+  background: rgba(250, 250, 250, 0.8);
+}
+.tweet:hover .interactions {
+  opacity: 1.0;
+}
+.tweet:before {
+  content: ' ';
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  width: 3.2em;
+  height: 3.2em;
+  border-radius: 7px;
+  background: url("https://si0.twimg.com/profile_images/378800000573658560/c76bf55b41d40d843a1da4962aba3466_normal.jpeg") no-repeat;
+  background-size: cover;
+}
+.tweet time {
+  position: absolute;
+  right: 1em;
+}
+.tweet time a {
+  font-size: 0.8667em;
+  color: #000;
+}
+.tweet time a:hover {
+  color: #2B92D7;
+}
+.tweet p {
+  margin: 0;
+}
+.tweet a {
+  color: #2B92D7;
+  text-decoration: none;
+}
+.tweet a:hover {
+  text-decoration: underline;
+}
+.tweet a.user {
+  font-weight: bold;
+  color: #2B92D7;
+  text-decoration: none;
+}
+.tweet a.user:hover {
+  color: #2B92D7;
+}
+.tweet a.user small {
+  font-weight: normal;
+  color: #aaaaaa;
+}
+.tweet .interactions {
+  margin-top: 0.5em;
+  font-size: 0.8667em;
+  text-align: right;
+  opacity: 0.3;
+}
+.tweet .interactions a {
+  padding-left: 1em;
+}
+.tweet .interactions a:hover {
+  color: #444;
+  text-decoration: none;
+}
+.tweet .interactions a i {
+  padding-right: 0.3334em;
+}
+
+
+
+
 .otrass{
 	font-weight: 700;
 	font-size: 1.29em;
@@ -657,9 +738,10 @@ border: none;
   display: inline-block;
   line-height: 110px;
   z-index: 2;
+  font-size: 1.1em !important;
 }
 .percent:after {
-  content: '%';
+  
   margin-left: 0.1em;
   font-size: .8em;
 }
@@ -683,7 +765,7 @@ border: none;
 
 
 .percent:after {
-	content: '%';
+	
 	margin-left: 0.1em;
 	font-size: .8em;
 	font-size:18px;
@@ -901,7 +983,7 @@ border: none;
 .Ama p{
 	font-size: 16px;
 	text-align:center;
-	color: #fff;
+	color: #010;
 	font-family: 'Comfortaa', cursive;
 	font-weight: 300;
 }
