@@ -48,7 +48,8 @@ body{
 
 
 .project{
-	box-shadow: 5px 3px 2px #888888;
+	box-shadow:   0px 5px 5px #1E1919;
+	padding: 20px;
 }
 
 
@@ -131,9 +132,11 @@ body{
 
 .otrass{
 	font-weight: 700;
-	font-size: 1.29em;
+	font-size: 1.4em;
 	color: #fff;
 	margin-bottom: 20px;
+	font-family: 'Titillium Web', sans-serif;
+	letter-spacing: 8px;
 }
 
 
