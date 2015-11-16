@@ -49,7 +49,7 @@ body{
 
 .project{
 	box-shadow:   0px 5px 5px #1E1919;
-	padding: 20px;
+	padding: 25px;
 }
 
 
@@ -132,11 +132,32 @@ body{
 
 .otrass{
 	font-weight: 700;
-	font-size: 1.4em;
+	font-size: 1.33em;
 	color: #fff;
 	margin-bottom: 20px;
 	font-family: 'Titillium Web', sans-serif;
 	letter-spacing: 8px;
+}
+
+.otrass:hover{
+	font-weight: 700;
+	
+	color: #fff;
+	margin-bottom: 20px;
+	font-family: 'Titillium Web', sans-serif;
+	letter-spacing: 8px;	
+	cursor:  pointer;
+
+}
+
+.otrass:active{
+	font-weight: 700;
+	
+	color: #fff;
+	margin-bottom: 20px;
+	font-family: 'Titillium Web', sans-serif;
+	letter-spacing: 8px;
+
 }
 
 
