@@ -43,6 +43,9 @@ body{
 }
 
 
+.carousel-control{
+	    opacity: .1 !important;
+}
 
 
 
