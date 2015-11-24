@@ -47,7 +47,10 @@ body{
 	    opacity: .1 !important;
 }
 
+.upfile{
 
+	margin-top: -90px !important;
+}
 
 
 @import url(http://fonts.googleapis.com/css?family=Merriweather+Sans);
@@ -674,6 +677,7 @@ border: none;
 	text-align: center;
 	
 }
+
 .Fresh h4{
 	//margin-left: -15px;
 	margin-top: 17px;
