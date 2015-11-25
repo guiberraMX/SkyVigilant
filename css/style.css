@@ -1573,9 +1573,10 @@ textarea {
 	color:#fefefe;
 	background:#2c2c2c;
 	border:none;
-    max-width: 816px;
-	height: 153px;
+    max-width: 716px;
+	height: 103px;
     resize: none;
+    width: 80% !important;
    }
 .forma input:focus, .forma textarea:focus{
 	background:#333234;
