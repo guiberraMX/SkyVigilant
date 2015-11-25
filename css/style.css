@@ -42,6 +42,14 @@ body{
 
 }
 
+.cont img{
+	margin-bottom: 20px;
+}
+
+.aboutUs{
+	margin-top: -50px;
+}
+
 
 .carousel-control{
 	    opacity: .1 !important;
@@ -1051,7 +1059,7 @@ border: none;
 	//bottom: 489px;
 }
 .Ama{
-	margin-top: 201px;
+	margin-top: 51px;
 	margin-bottom: 133px;
 /*	margin-top: 241px;
 	margin-bottom: 94px;*/
