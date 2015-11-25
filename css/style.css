@@ -52,6 +52,10 @@ body{
 	margin-top: -90px !important;
 }
 
+.social-wrap button{
+	margin-left: 21% !important; 
+}
+
 
 @import url(http://fonts.googleapis.com/css?family=Merriweather+Sans);
 div.social-wrap button {
