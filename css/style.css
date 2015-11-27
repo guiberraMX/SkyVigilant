@@ -35,6 +35,11 @@ body{
 	
 }
 
+.vido{
+	color: #DFDFDF;
+	font-size: 19px;
+}
+
 
 .activo {
 	width: 40%;
@@ -84,7 +89,7 @@ div.social-wrap button {
   border-bottom: 2px solid transparent;
   border-left: 1px solid transparent;
   border-right: 1px solid transparent;
-  box-shadow: 0 4px 2px -2px gray;
+  box-shadow: 0 4px 2px -2px #000;
   text-shadow: rgba(0, 0, 0, 0.5) -1px -1px 0;
 }
 
