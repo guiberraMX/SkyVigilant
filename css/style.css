@@ -125,6 +125,55 @@ button#twitter {
 	padding: 25px;
 }
 
+.project:hover{
+	background: rgba(5, 5, 5, 0.8);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.has-child {
+    position: relative;
+}
+
+.has-child:after {
+    text-shadow: none;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'fontawesome';
+    speak: none;
+    font-weight: normal;
+    font-variant: normal;
+    line-height: 1;
+    text-transform: none;
+    content: "\f0d7";
+    color: #1396e2;
+    font-size: 8px;
+    height: 10px;
+    position: absolute;
+    top: 3px;
+    bottom: 0;
+    margin: auto;
+    right: 2px;
+}
+
+
+
+
+
+
+
+
+
 
 .tweet  {
   width:66%;
