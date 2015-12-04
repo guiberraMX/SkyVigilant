@@ -16,6 +16,33 @@ body{
 	font-weight: 300!important;
 }
 
+
+
+.filtrar			{   text-align: center; 
+						margin-top: 50px;
+						 }
+.filtrar	ul		{ position: relative; display: inline-block; padding: 0px 20px; list-style: none; }
+.filtrar ul li	{ position: relative; float: left; }
+.filtrar ul li:hover							{ background: #30a3f1; }
+.filtrar ul li a, .filtrar ul li:hover ul li a	{ cursor:pointer;
+	background:#333;
+	color:#fff;
+	
+
+	display: block;  text-decoration: none; color: #fff; padding: 10px 8px; font-size: 0.8em; text-transform: uppercase; }
+.filtrar ul li ul							{ position: absolute; display: none; border-radius: 0 0 10px 10px; width: 120px; top: 36px; left: 0px;  z-index: 1000; }
+.filtrar ul li:hover > ul					{ display: block; margin: 0; padding: 0; }
+.filtrar ul li#active a, .filtrar ul li a:hover,
+.filtrar ul li ul li > a:hover				{ background: #30a3f1; color: #fff; }
+.filtrar ul li:hover > ul li					{ float: none; display: block; }
+.filtrar ul li ul li:last-child > a:hover	{ border-radius: 0 0 10px 10px;}
+
+
+
+
+
+
+
 .negro1{
 	background-color: #202020 !important;
 }
@@ -287,6 +314,7 @@ button#twitter {
   display: table;
   width: 100%;
   height: 100%;
+  margin-bottom: 33px;
 }
 .cntr .cntr-innr {
   display: table-cell;
