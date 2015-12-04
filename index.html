@@ -280,11 +280,11 @@ $("#inpt_search").on('blur', function() {
 
 
 
-<div class="filtrar">
-	<ul>
-		<li id="active"><a href="#">Todo</a></li>
+<div id="options" class="filtrar">
+	<ul data-option-key="filter">
+		<li id="active"><a href="#filter" data-option-value="*">Todo</a></li>
 		
-		<li><a href="#">Drones</a></li>
+		<li><a href="#filter" data-option-value=".text_styles">Drones</a></li>
 		<li><a href="#">Accesorios</a>
 			<ul>
 				<li><a href="what_to_bring.html">Phantom</a></li>
@@ -301,31 +301,15 @@ $("#inpt_search").on('blur', function() {
 				<li><a href="gallery.html">Ronin</a></li>
 			</ul>
 		</li>
-		<li><a href="#">Semi nuevos</a></li>
+		<li><a href="#filter" data-option-value=".polygraphy">Semi nuevos</a></li>
 	</ul>
 </div>
 
 		
-		
-
-
-
-
-
-
-
-
-
-
 				<!-- filter_
 
 
 		<div id="options" class="col-md-12" style="text-align: center;">
-
-
-
-
-
 			<ul id="filter" class="option-set" data-option-key="filter">
 						<li><a class="selected" href="#filter" data-option-value="*" class="current">Todo</a></li>
 						<li><a href="#filter" data-option-value=".text_styles">Drones</a></li>
@@ -335,19 +319,9 @@ $("#inpt_search").on('blur', function() {
 								<li><a href="#">Hubsan</a></li>
 
 							</ul>
-
-
 						<li><a href="#filter" data-option-value=".branding">Refacciones</a></li>
-
-
-						
-						<li><a href="#filter" data-option-value=".web">Semi nuevos</a></li>
-						
+						<li><a href="#filter" data-option-value=".web">Semi nuevos</a></li>			
 			</ul>
-
-
-
-
 		</div> 
 
 
@@ -493,6 +467,26 @@ $("#inpt_search").on('blur', function() {
 
 
 
+
+
+
+
+
+<!--about s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 					<div class="element col-sm-4  gall  text_styles">
 						<a href="#producto" data-toggle="modal">
 							<img class="img-responsive picsGall" src="images/prettyPhotoImages/thumb_pic4.jpg" alt="pic1 Gallery"/>
@@ -587,7 +581,7 @@ $("#inpt_search").on('blur', function() {
 
 
 
-<!--about s
+
 
 
 
