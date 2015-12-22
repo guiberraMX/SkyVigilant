@@ -756,7 +756,7 @@ border: none;
 
 
  .Des .fa-heart{
-	//margin-left: -14px;
+	
 	background: url(../images/cir.png) no-repeat;
 	padding: 26px;
 	font-size: 24px;
@@ -773,7 +773,7 @@ border: none;
 }
 
 .Fresh h4{
-	//margin-left: -15px;
+	
 	margin-top: 17px;
 	font-family: 'Comfortaa', cursive;
 	font-size:20px;
@@ -785,6 +785,7 @@ border: none;
 	font-weight: 300;
 	margin-top: 12px;
 	line-height: 23px;
+	text-shadow: 2px 1px 2px #000;
 }
 .fa-cog {
 	margin-left: 2px;
@@ -795,15 +796,25 @@ border: none;
 	font-family: FontAwesome;
 	text-align: center;
 }
-.Des  h4{
-	//margin-left: -19px;
+.Des  h4 {
+	 text-shadow: 2px 1px 2px #000;
 }
-.Ver  h4{
-	//margin-left:0;
+.Ver  h4 {
+	 text-shadow: 2px 1px 2px #000;
 }
-.Fully  h4{
-	//margin-left: 20px;
+.Fully  h4 {
+	 text-shadow: 2px 1px 2px #000;
 }
+
+.Ver p{
+	text-shadow: 2px 1px 2px #000;
+}
+
+
+.Fully p{
+	text-shadow: 2px 1px 2px #000;
+}
+
 .fa-tablet{
 	//margin-left: 20px;
 	width:73px;
