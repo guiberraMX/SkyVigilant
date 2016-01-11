@@ -57,15 +57,36 @@
 }
 
 #controls {
-	margin: -8% 0 0 84%;
+	margin:0px 0 0 85% !important;
 	width: 15%;
 	height: 50px;
+	color: #fff !important;
+ 
+	float: top;
+	
+
+}
+
+.descart{
+	width: 80%;
+	margin-top: -50px !important;
+	margin-left: 10px;
+
+}
+
+
+.featuress li a{
+	list-style: none;
+	color: #000;
 }
 
 #controls label { 
-	display: none;
+	display: none ;
 	width: 50px;
 	height: 50px;
+	z-index: +300;
+	color: #fff !important;
+
 	
 }
 
@@ -99,10 +120,10 @@
 #slide4:checked ~ #controls label:nth-child(5), 
 #slide5:checked ~ #controls label:nth-child(1) {
 	background: url('../images/next.png') no-repeat;
-	float: right;
-	margin: 0 10px 0 0;
-	display: block;
-	background-color:#ef023f;
+	float: right top !important;
+	margin: 0 0px 0 0;
+	display: inline-block;
+	background-color:#33acfe;
 }
 
 
@@ -112,10 +133,10 @@
 #slide4:checked ~ #controls label:nth-child(3),
 #slide5:checked ~ #controls label:nth-child(4) {
 	background: url('../images/prev.png') no-repeat;
-	float: left;
-	margin: 0 0 0 17px;
-	display: block;
-	background-color:#ef023f;
+	float: left top !important;
+	margin: 0 0 0 0px;
+	display: inline-block;
+	background-color:#33acfe;
 }
 
 
@@ -127,7 +148,7 @@
     color: #FFFFFF;
     font-style: italic;
     line-height: 20px;
-    margin-top: 250px;
+    margin-top: 330px;
     opacity: 0;
     position: absolute;
     text-align: left;
