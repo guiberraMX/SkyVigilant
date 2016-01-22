@@ -393,7 +393,7 @@ button#twitter {
 	width: 100%;
 	overflow: hidden;
 	height:100%;
-	background: url(../images/bgTop.jpg) center center no-repeat;
+	background: url(../images/bgTop1.jpg) center center no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -709,7 +709,7 @@ border: none;
 	width: 100%;
 	overflow: hidden;
 	height:100%;
-	background: url(../images/bgTop.jpg) center center no-repeat;
+	background: url(../images/bgTop1.jpg) center center no-repeat;
 	/*background:url(../images/line2.png) center center no-repeat;*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -835,7 +835,19 @@ border: none;
 	color:#077A8D;
 	font-family: 'Comfortaa', cursive;
 	font-weight: 400;
+	
 }
+
+
+.sign{
+font-size:28px;
+	color:#077A8D;
+	font-family: 'Arial' !important;
+	font-weight: 400;
+
+	}
+
+
 .wwa h4{
 	margin-top: 15px;
 	font-size:16px;
@@ -1105,7 +1117,7 @@ border: none;
 	width: 100%;
 	overflow: hidden;
 	height:100%;
-	background: url(../images/bgTop.jpg) center center no-repeat;
+	background: url(../images/bgTop1.jpg) center center no-repeat;
 	/*background: url(../images/line3Bg.jpg) center center no-repeat;*/
 	/*background:#3f2d28;*/
 	-webkit-background-size: cover;
@@ -1169,6 +1181,15 @@ border: none;
 	text-align:center;
 	color: #fff;
 	font-family: 'Comfortaa', cursive;
+	font-weight: 400;
+	margin-top: 17px;
+}
+
+.sign2{
+	font-size: 42px;
+	text-align:center;
+	color: #fff;
+	font-family: 'Arial';
 	font-weight: 400;
 	margin-top: 17px;
 }
@@ -1427,7 +1448,7 @@ border: none;
 	width: 100%;
 	overflow: hidden;
 	height:100%;
-	background: url(../images/bgTop.jpg) center center no-repeat;
+	background: url(../images/bgTop1.jpg) center center no-repeat;
 	/*background: url(../images/line4.png) center center no-repeat;*/
 	/*background:#3f2d28;*/
 	-webkit-background-size: cover;
@@ -1583,7 +1604,7 @@ border: none;
 	width: 100%;
 	overflow: hidden;
 	height:100%;
-	background: url(../images/bgTop.jpg) center center no-repeat;
+	background: url(../images/bgTop1.jpg) center center no-repeat;
 	/*background: url(../images/line5Bg.jpg) center center no-repeat;	*/
 	/*background:#3f2d28;*/
 	-webkit-background-size: cover;
