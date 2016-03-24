@@ -38,11 +38,6 @@ body{
 .filtrar ul li ul li:last-child > a:hover	{ border-radius: 0 0 10px 10px;}
 
 
-
-
-
-
-
 .negro1{
 	background-color: #202020 !important;
 }
@@ -96,6 +91,15 @@ body{
 	margin-left: 21% !important; 
 }
 
+tr:nth-child(odd){
+    background: #f0f0f0 !important;
+    color: #626161 !important;
+}
+ 
+tr:nth-child(even){
+    background: #FFFFFF !important;
+    color: #626161 !important;
+}
 
 @import url(http://fonts.googleapis.com/css?family=Merriweather+Sans);
 div.social-wrap button {
@@ -132,12 +136,19 @@ button#twitter {
   background-image: url(../images/comprar.png);
 }
 
+button#cancelar {
+  border-color: #df6969;
+  background-color: #df6969;
+ 
+}
 
 
 
-
-
-
+button#button {
+  border-color: #007aa6;
+  background-color: #008cbf;
+  background-image: url(../images/comprar.png);
+}
 
 
 
@@ -2519,6 +2530,51 @@ margin-bottom: 35px !important;
 		background-color: #101010!important;
     }
 
+
+
+
+
+
+
+.nolista{
+	list-style: none;
+	margin-top: 25px;
+
+}
+
+.titulomodal{
+	font-size: 1.8em !important;
+}
+
+.tablamodal{
+
+	margin: 40px;
+
+}
+
+.pago{
+	margin-top: 30px;
+}
+
+.datoss{
+	margin-top: 30px;
+}
+
+.metodosdepago{
+	margin-top: 18px;
+}
+
+.txtmodal h4{
+	
+	margin-top: 30px !important;
+	
+}
+
+.marginhead{
+	margin-bottom: 40px;
+}
+
+.modal-footer{
+	text-align: center !important;
+}
 /**/
-
-
