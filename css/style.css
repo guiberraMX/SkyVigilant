@@ -18,6 +18,30 @@ body{
 
 
 
+.darkcommerce{
+	background-color: #202020 !important;
+}
+
+.activedark li{
+	background-color: #101010 !important;
+	color: #fff !important;
+}
+
+.pedido:hover{
+
+	color: #fff !important;
+}
+
+.pedido:focus{
+	background-color: #101010 !important;
+}
+
+.comprar{
+	background-color: #36C2DA !important;
+}
+
+
+
 .filtrar			{   text-align: center; 
 						margin-top: 50px;
 						 }
